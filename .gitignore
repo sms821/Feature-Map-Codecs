@@ -1,0 +1,6 @@
+old_logs
+__pycache__
+out
+*/logs
+*/*.h5
+pretrained
